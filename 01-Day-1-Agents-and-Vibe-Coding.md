@@ -1,6 +1,3 @@
-Here is the complete, raw Markdown source for **Day 1 (Version 2: Textbook Quality)**.
-
-You can copy and paste the entire block below directly into your GitHub repository file (e.g., `01-Day-1-Agents-and-Vibe-Coding.md`). It contains the fully expanded technical breakdowns, structured ASCII diagrams, implementation details, and interview deep dives formatted perfectly for GitHub's Markdown renderer.
 
 ```markdown
 # Day 1: Foundations of AI Agents and Vibe Coding
