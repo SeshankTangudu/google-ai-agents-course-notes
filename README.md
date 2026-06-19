@@ -1,3 +1,32 @@
+<div align="center">
+
+  <!-- Static Verified Infrastructure Badges -->
+  <img src="https://img.shields.io/badge/Google%20%C3%97%20Kaggle-AI%20Agents%20Course-blue?style=for-the-badge&logo=google&logoColor=white" alt="Core Google Badge" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License Badge" />
+  <img src="https://img.shields.io/badge/Stack-ADK%202.0-orange?style=for-the-badge" alt="ADK Badge" />
+
+  <br /><br />
+
+  <!-- Main Technical Headers -->
+  <h1>🤖 Google × Kaggle AI Agents Engineering</h1>
+  <h3>Intensive Vibe Coding Reference Handbook</h3>
+
+  <p>
+    A comprehensive technical handbook covering Google's 5-Day AI Agents Intensive Vibe Coding Course.
+  </p>
+
+  <p>
+    Created by <b>Seshank Tangudu</b>
+  </p>
+
+  <!-- Core Skill Stack Tags -->
+  <code>ADK 2.0</code> | <code>MCP Framework</code> | <code>Agent Skills</code> | <code>STRIDE Hardening</code> | <code>Trajectory Evaluation</code> | <code>Spec-Driven Development</code>
+
+  <br /><br />
+  <hr size="1" color="#333" />
+</div>
+
+
 # Google AI Agents Course Notes
 
 A comprehensive student-created reference guide for Google's **5-Day AI Agents: Intensive Vibe Coding Course** conducted through Kaggle.
