@@ -225,26 +225,20 @@ File:
 ```text
 google-ai-agents-course-notes
 │
-├── README.md
+├── README.md                          # Repository overview, navigation, roadmaps & banner
 │
-├── 01-Day-1-Agents-and-Vibe-Coding.md
-├── 02-Day-2-MCP-and-Agent-Interoperability.md
-├── 03-Day-3-Agent-Skills.md
-├── 04-Day-4-Agent-Security-and-Evaluation.md
-├── 05-Day-5-Spec-Driven-Development.md
+├── 01-Day-1-Agents-and-Vibe-Coding.md # Agentic Engineering, Vibe Coding & Context Rot
+├── 02-Day-2-MCP-and-Agent-Interop.md  # Model Context Protocol (MCP) clients & servers
+├── 03-Day-3-Agent-Skills.md           # Agent Skills, Procedural Memory & Skill Discovery
+├── 04-Day-4-Agent-Sec-and-Eval.md     # STRIDE Threat Modeling, PII Filters & HITL patterns
+├── 05-Day-5-Spec-Driven-Dev.md        # Spec-Driven Development (SDD) & Policy Servers
 │
-├── 06-Interview-Questions.md
-├── 07-Glossary.md
-├── 08-Course-Summary.md
+├── 06-Interview-Questions.md          # Beginner to advanced engineering practice questions
+├── 07-Glossary.md                     # Comprehensive definitions of modern Agent systems
+├── 08-Course-Summary.md               # End-to-end quick revision and reference guide
+├── 09-Architecture-Blueprints.md      # Live-rendering Mermaid software system maps
 │
-├── assets/
-│   ├── day1-flowcharts
-│   ├── day2-mcp-diagrams
-│   ├── day3-skills-diagrams
-│   ├── day4-security-diagrams
-│   └── day5-sdd-diagrams
-│
-└── LICENSE
+└── LICENSE                            # Open-source MIT License guidelines
 ```
 
 ---
